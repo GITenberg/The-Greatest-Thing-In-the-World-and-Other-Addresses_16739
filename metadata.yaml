@@ -1,0 +1,34 @@
+_repo: The-Greatest-Thing-In-the-World-and-Other-Addresses_16739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drummond, Henry
+    birthdate: 1851
+    deathdate: 1897
+    gutenberg_agent_id: '940'
+    url: http://www.gutenberg.org/2009/agents/940
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Drummond
+description: 'Front Cover; Title Page; Copyright; Contents; Introduction; Love: the
+  Greatest Thing in the World; Lessons from the Angelus; Pax Vobiscum; First! An Address
+  to Boys; The Changed Life, the Greatest Need of the World; Dealing with Doubt.'
+gutenberg_issued: '2005-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Religious aspects'
+- !lcsh 'Christianity'
+- !lcsh 'Christian life'
+- !lcc 'BV'
+tableOfContents: Love, the greatest thing in the world -- Lessons from the Angelus
+  -- Pax vobiscum -- First! an address to boys -- The changed life, the greatest need
+  of the world -- Dealing with doubt.
+title: The Greatest Thing In the World and Other Addresses
+url: http://www.gutenberg.org/ebooks/16739
